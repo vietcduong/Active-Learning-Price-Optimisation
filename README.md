@@ -245,14 +245,6 @@ active-learning-price-optimization
 
 ---
 
-# Key Takeaways
-
-This project demonstrates how **Active Learning can significantly reduce the data required for machine learning models**, which is particularly valuable in business environments where data collection and experimentation are costly.
-
-Selecting **informative observations instead of random samples** can dramatically improve model efficiency and speed up decision-making.
-
----
-
 # Future Improvements
 
 Potential extensions include:
