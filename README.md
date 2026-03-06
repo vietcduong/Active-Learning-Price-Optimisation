@@ -142,6 +142,8 @@ Each iteration follows the process below:
 4. Evaluate performance
 5. Repeat
 
+![Active Learning Cycle](results/Active Learning Cycle.png)
+
 ---
 
 # Evaluation Metrics
@@ -152,13 +154,19 @@ Model performance was measured using the following metrics.
 
 Measures the average percentage prediction error.
 
+![MAPE scores](results/MAPE results.png)
+
 ### RMSE (Root Mean Squared Error)
 
 Measures prediction accuracy while penalising large errors.
 
+![RMSE scores](results/RMSE results.png)
+
 ### R² (Coefficient of Determination)
 
 Measures the proportion of variance in sales explained by the model.
+
+![R2 scores](results/R2 results.png)
 
 ---
 
