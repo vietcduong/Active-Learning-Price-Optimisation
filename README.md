@@ -237,7 +237,7 @@ Industries where this approach is particularly valuable include:
 ```
 active-learning-price-optimization
 │
-├── report│
+├── report
 ├── notebooks
 ├── results
 └── requirements.txt
