@@ -247,8 +247,7 @@ active-learning-price-optimization
 │
 ├── report
 ├── notebooks
-├── results
-└── requirements.txt
+└── results
 ```
 
 ---
