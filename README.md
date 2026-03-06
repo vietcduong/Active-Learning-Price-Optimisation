@@ -142,7 +142,7 @@ Each iteration follows the process below:
 4. Evaluate performance
 5. Repeat
 
-results/Active Learning Cycle.png
+results/Active_Learning_Cycle.png
 
 ---
 
