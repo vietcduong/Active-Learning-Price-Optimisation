@@ -237,24 +237,9 @@ Industries where this approach is particularly valuable include:
 ```
 active-learning-price-optimization
 │
-├── report
-│   └── active-learning-price-optimization.pdf
-│
+├── report│
 ├── notebooks
-│   └── price_optimization_active_learning.ipynb
-│
-├── src
-│   ├── preprocessing.py
-│   ├── regression_model.py
-│   ├── active_learning.py
-│   └── evaluation_metrics.py
-│
 ├── results
-│   ├── mape_results.png
-│   ├── rmse_results.png
-│   ├── r2_results.png
-│   └── profit_optimization.png
-│
 └── requirements.txt
 ```
 
